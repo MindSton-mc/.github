@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank" href="https://www.multivetismc.com"><img height="200" src="vhttps://github.com/MultivetisMc/.github/blob/main/Assets/MultivetisMc.png"></a></p>
+<p align="center"><a target="_blank" href="https://www.multivetismc.com"><img height="200" src="https://github.com/MultivetisMc/.github/blob/main/Assets/MultivetisMc.png"></a></p>
 
 # A propos de MultivetisMc.
 
