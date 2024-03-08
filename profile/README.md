@@ -18,6 +18,6 @@ We aim to offer a **new experience** in the world of Minecraft for players and e
 
 To contribute to the project, please **read and follow the installation instructions in the readme of the repository** you want to contribute to, then **read the CONTRIBUTING.md of the repository and the Code Of Conduct** located in the **.github folder**. This helps to maintain a good working atmosphere and minimizes surprises in the code during development. If you want to use the software, don't forget too look at the **SECURITY.md of the repositories** of the software you are using. We mostly only support the **latest version for security updates**.
 
-## How to join the project as a developer?
+## How to join the project as a staff?
 
 ### Please contact Peperehobbit01 on Discord with the username peperehobbits01. Forms will be available later...
