@@ -1,23 +1,23 @@
 <p align="center"><a target="_blank" href="https://www.multivetismc.com"><img height="200" src="https://github.com/MultivetisMc/.github/blob/main/Assets/MultivetisMc.png"></a></p>
 
-# A propos de MultivetisMc.
+# About MultivetisMc.
 
-## Introduction :
+## Introduction:
 
-Depuis 2021, MultivetisMc **développe un serveur Minecraft** pour la dernière version du jeu. Nous sommes une équipe déterminée et nous aimons l'open source. Nous ne savons actuellement pas **qaund le serveur sortira** mais nous réalisons nos plugins sur lequel vous pouvez contribuée ou faire des forks, tout nos projet plugin son sous la license **GPL 3.0** plus connue sous le nom de **GNU GENERAL PUBLIC LICENSE 3.0**. Notre launcher n'est **pas encore en développement**!
+Since 2021, MultivetisMc has been **developing a Minecraft server** for the latest version of the game. We are a determined team and we love open source. We currently do not know **when the server will be released** but we are working on our plugins on which you can contribute or fork, all our plugin projects are under the **GPL 3.0 license** better known as the **GNU GENERAL PUBLIC LICENSE 3.0**. Our launcher is **not yet in development**!
 
-## Qui sommes-nous?
+## Who are we?
 
-MultivetisMc est une sociétée dévelopent un **serveur MInecraft** et un **launcher Minecraft** fondée en 2021 par **Peperehobbits01** avec l'envie de crée quelque chose de **nouveau pour Minecraft** et pas un autre serveur Skyblock ou mini-jeux qui sont du **vue et revue**. Le projet parti de rien mais maintenant **certaine partie de son software** sous license **GPL-3.0** pour vous permettres de pouvoir de contribuer au projet qui actuellement n'a **pas encore de date de sortie prévue**.
+MultivetisMc is a company developing a **Minecraft server** and a **Minecraft launcher** founded in 2021 by **Peperehobbits01** with the desire to create something **new for Minecraft** and not just another Skyblock server or mini-games which are **overdone**. The project started from scratch but now **certain parts of its software** are licensed **GPL-3.0** to allow you to contribute to the project which currently has **no scheduled release date**.
 
-## Qu'elles sont nos objectif?
+## What are our goals?
 
-Nous voulons offrir une **nouvelle expérience** dans le monde de Minecraft pour les joueurs et permettre une **conbinaison entre toute les communautées en un seule launcher** mais aussi de combattre le **pay-to-win** sur les serveurs Minecraft.
+We aim to offer a **new experience** in the world of Minecraft for players and enable a **combination of all communities into a single launcher** but also to combat **pay-to-win** on Minecraft servers.
 
-## Comment contribuer au projet?
+## How to contribute to the project?
 
-Pour contribuer au projet, merci de **lire et suivre l'installation dans le readme de la repositories** à laquel vous voulez contribuez, puis **lisée le CONTRIBIUTING.md de la repositories** se trouvant dans le **dossier .github**. Cela permet d'avoir une bonne ambiance pour travaillée ensemble et évite le plus possible des surprises dans le code lors du développement.
+To contribute to the project, please **read and follow the installation instructions in the readme of the repository** you want to contribute to, then **read the CONTRIBUTING.md of the repository** located in the **.github folder**. This helps to maintain a good working atmosphere and minimizes surprises in the code during development.
 
-## Comment rejoindre le projet en temps que développeur?
+## How to join the project as a developer?
 
-### Merci de contacter Peperehobbit01 sur Discord de son pseudo peperehobbits01. Les formulaires arriveront plus tard...
+### Please contact Peperehobbit01 on Discord with the username peperehobbits01. Forms will be available later...
