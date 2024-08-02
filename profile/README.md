@@ -4,11 +4,11 @@
 
 ## Introduction:
 
-Since 2021, MultivetisMc has been **developing a Minecraft server** for the latest version of the game. We are a determined team and we love open source. We currently do not know **when the server will be released** but we are working on our plugins on which you can contribute or fork, all our plugin projects are under the **GPL 3.0 license** better known as the **GNU GENERAL PUBLIC LICENSE 3.0** or others like the **MIT license**. Our launcher is **not yet in development** but will start to be in developement **pretty soon**, at list we hope!
+Since 2021, MultivetisMc has been **developing a Minecraft server** for the latest version of the game. We are a determined team and we love open source. We currently do not know **when the server will be released** but we are working on our Fabric mods/Minestom extentions on which you can contribute or fork, all our projects are under the **MIT License** or others if it's a fork of a other project. Our launcher is **not yet in development** but will start to be in developement **pretty soon**, at list we hope!
 
 ## Who are we?
 
-MultivetisMc is a company developing a **Minecraft server** and a **Minecraft launcher** founded in 2021 by **Peperehobbits01** in Belgium, with the desire to create something **new for Minecraft** and not just another Skyblock server or mini-games which are **overdone**. The project started from scratch but now **certain parts of its software** are licensed **GPL-3.0 or other licenses** to allow you to contribute to the project which currently has **no scheduled release date**.
+MultivetisMc is a company developing a **Minecraft server** and a **Minecraft launcher** founded in 2021 by **Peperehobbits01** in Belgium, with the desire to create something **new for Minecraft** and not just another Skyblock server or mini-games which are **overdone**. The project started from scratch but now **certain parts of its software** are licensed **MIT or other licenses** to allow you to contribute to the project which currently has **no scheduled release date**.
 
 ## What are our goals?
 
