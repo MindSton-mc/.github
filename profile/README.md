@@ -1,10 +1,10 @@
-<p align="center"><a target="_blank" href="https://www.multivetismc.com"><img height="200" src="https://github.com/MultivetisMc/.github/blob/main/Assets/MultivetisMc.png"></a></p>
+<p align="center"><a target="_blank" href="https://www.multivetismc.com"><img height="200" src="https://github.com/MindSton/.github/blob/main/Assets/MindSton.png"></a></p>
 
-# About MultivetisMc.
+# About MindSton.
 
 ## Introduction:
 
-Since 2021, MultivetisMc has been **developing a Minecraft server** for the latest version of the game. We are a determined team and we love open source. We currently do not know **when the server will be released** but we are working on our Fabric mods/Minestom extentions on which you can contribute or fork, all our projects are under the **MIT License** or others if it's a fork of a other project. Our launcher is **not yet in development** but will start to be in developement **pretty soon**, at list we hope!
+Since 2021, MindSton has been **developing a Minecraft server** for the latest version of the game. We are a determined team and we love open source. We currently do not know **when the server will be released** but we are working on our Fabric mods/Minestom extentions on which you can contribute or fork, all our projects are under the **MIT License** or others if it's a fork of a other project. Our launcher is **not yet in development** but will start to be in developement **pretty soon**, at list we hope!
 
 ## Who are we?
 
