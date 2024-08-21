@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank" href="https://www.multivetismc.com"><img height="200" src="https://github.com/MindSton/.github/blob/main/Assets/MindSton.png"></a></p>
+<p align="center"><a target="_blank" href="https://www.multivetismc.com"><img height="200" src="https://github.com/MindSton-mc/.github/blob/main/Assets/MindSton.png"></a></p>
 
 # About MindSton.
 
