@@ -8,7 +8,7 @@ Since 2021, MindSton has been **developing a Minecraft server** for the latest v
 
 ## Who are we?
 
-MultivetisMc is a company developing a **Minecraft server** and a **Minecraft launcher** founded in 2021 by **Peperehobbits01** in Belgium, with the desire to create something **new for Minecraft** and not just another Skyblock server or mini-games which are **overdone**. The project started from scratch but now **certain parts of its software** are licensed **MIT or other licenses** to allow you to contribute to the project which currently has **no scheduled release date**.
+MindSton is a company developing a **Minecraft server** and a **Minecraft launcher**, founded in 2021 by **Peperehobbits01** in Belgium, with the desire to create something **new for Minecraft** and not just another Skyblock server or mini-games which are **overdone**. The project started from scratch but now **certain parts of its software** are licensed **MIT or other licenses** to allow you to contribute to the project which currently has **no scheduled release date**.
 
 ## What are our goals?
 
